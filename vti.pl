@@ -20,7 +20,7 @@ use vars qw($opt_h $opt_d);
 getopts('dh') || usage();
 
 if (defined($opt_h)) {
-	help();  # if -h had a value, it would be in $opt_h
+	help();
 }
 
 # Create ctkn object.
