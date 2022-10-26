@@ -4,7 +4,7 @@
 use strict;
 use warnings;
 use Getopt::Std;
-use Carp;  # For "croak()"
+use Carp;
 use File::Basename;
 
 # Include ctkn package.
