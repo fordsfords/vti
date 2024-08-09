@@ -1,5 +1,5 @@
 #!/bin/sh
-# vti.sh
+# vti.sh - scrape VTI from yahoo
 
 cd $HOME/vti
 
